@@ -1,0 +1,9 @@
+{
+	"name": "factory45",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4c55141-5dfb-43e3-bcd7-7d8873b2d196",
+		"tenantId": "3d1785db-38bb-410b-a4bb-f32e1435de43"
+	}
+}
